@@ -1,0 +1,6 @@
+@ServicosRestFull_HostAddress = http://localhost:5039
+
+GET {{ServicosRestFull_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
